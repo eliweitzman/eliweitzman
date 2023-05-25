@@ -4,7 +4,7 @@
 
 👨‍💻 I have a ton of experience in PowerShell, and some minor work in Java and Python.
 
-💻 I currently work while in school at an IT Helpdesk, and build out various technical applications using PowerShell!
+💻 I currently work while in school at an IT Helpdesk, and build out various internal-use applications using PowerShell!
 
 
 <!--
