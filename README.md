@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi! I'm Eli! 👋
+
+📚 I'm a current incoming College Senior, studying Computer Information Systems, with an interest in PM work!
+
+👨‍💻 I have a ton of experience in PowerShell, and some minor work in Java and Python.
+
+💻 I currently work while in school at an IT Helpdesk, and build out various technical applications using PowerShell!
+
 
 <!--
 **eliweitzman/eliweitzman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
