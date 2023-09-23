@@ -1,6 +1,6 @@
 ### Hi! I'm Eli! 👋
 
-📚 I'm a current incoming College Senior, studying Computer Information Systems, with an interest in PM work
+📚 I'm a current College Senior, studying Computer Information Systems, with an interest in PM work
 
 👨‍💻 I have experience in PowerShell, and some minor work in Java and Python! Plus, I'm starting to learn some C#
 
