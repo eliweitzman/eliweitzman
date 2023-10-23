@@ -6,7 +6,7 @@
 
 💻 I currently work while in school at an IT Helpdesk, and build out various internal-use applications using PowerShell
 
-![Eli's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliweitzman\&rank_icon=github) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliweitzman&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![Eli's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliweitzman\&rank_icon=github&line_height=20) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliweitzman&size_weight=0.5&count_weight=0.5)
 
 
 <!--
