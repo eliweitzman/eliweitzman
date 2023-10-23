@@ -6,6 +6,8 @@
 
 💻 I currently work while in school at an IT Helpdesk, and build out various internal-use applications using PowerShell
 
+![Eli's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliweitzman\&rank_icon=github) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliweitzman&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **eliweitzman/eliweitzman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
