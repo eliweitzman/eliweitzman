@@ -1,10 +1,8 @@
 ### Hi! I'm Eli! 👋
 
-📚 I'm a current College Senior, studying Computer Information Systems, with an interest in PM work
+📚 I'm a recent gollege graduate, having spent time studying Computer Information Systems, with an interest in PM work
 
 👨‍💻 I have experience in PowerShell, and some minor work in Java and Python!
-
-💻 I currently work while in school at an IT Helpdesk, and build out various internal-use applications using PowerShell
 
 ![Eli's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliweitzman\&rank_icon=github&line_height=20) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliweitzman&size_weight=0.5&count_weight=0.5)
 
