@@ -1,6 +1,6 @@
 ### Hi! I'm Eli! 👋
 
-📚 I'm a recent gollege graduate, having spent time studying Computer Information Systems, with an interest in PM work
+📚 I'm a recent college graduate, having spent time studying Computer Information Systems, with an interest in PM work
 
 👨‍💻 I have experience in PowerShell, and some minor work in Java and Python!
 
