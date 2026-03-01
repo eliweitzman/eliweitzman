@@ -4,8 +4,6 @@
 
 👨‍💻 I have experience in PowerShell, and some minor work in Java and Python!
 
-![Eli's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliweitzman\&rank_icon=github&line_height=20) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliweitzman&size_weight=0.5&count_weight=0.5)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=eliweitzman&theme=vue&mode=weekly&card_width=755&type=svg)](https://git.io/streak-stats)
 
 
